@@ -29,4 +29,3 @@ class LoadingIndicator: UIView {
     indicator.center = CGPoint(x: bounds.size.width/2, y: bounds.size.height/2)
   }
 }
-
